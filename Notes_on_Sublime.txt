@@ -1,3 +1,8 @@
 - [cmd + ,] : Open preference settings
 - These settings can be exported and are under the Packages/User settings
 - Settings can be specific to a language/file extension. Add a sublime-preference in the packages/User/language_folder.sublime-preferences
+- Use of bookmarks
+- Go To Anything: [cmd+p], :Line_Number, @symbols
+- Package auto file name to suggest filenames
+
+sublime-preferences
