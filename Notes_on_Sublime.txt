@@ -1,3 +1,8 @@
+- The .sublime-settings file can be per extension: 
+	example: CSS.sublime-settings under your user folder
+- User settings are saved under: Preferences.sublime-settings
+- Bookmarking: ctrl + f2 and more options under GO TO bookmarks.
+- CTRL+K+T in html, will fold all the attributes (CTRL+K+J will unfold)
 - [cmd + ,] : Open preference settings
 - These settings can be exported and are under the Packages/User settings
 - Settings can be specific to a language/file extension. Add a sublime-preference in the packages/User/language_folder.sublime-preferences
